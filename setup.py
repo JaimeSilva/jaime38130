@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'jaime38130',
   packages = ['jaime38130'],
-  version = '0.4',
+  version = '0.5',
   license='-',
   description = 'Colors!',
   author = 'Jaime Silva',
   author_email = 'jaimedcsilva@hotmail.com',
   url = 'https://github.com/JaimeSilva/jaime38130.git',
-  download_url = 'https://github.com/JaimeSilva/jaime38130/archive/refs/tags/v_04.tar.gz',
+  download_url = 'https://github.com/JaimeSilva/jaime38130/archive/refs/tags/v_05.tar.gz',
   keywords = ['SOME', 'MEANINGFULL', 'COLORS'],
   install_requires=[
           'colorama',
