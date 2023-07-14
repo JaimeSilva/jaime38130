@@ -1,1 +1,1 @@
-from jaime38130.script_python import jaimedcsilva
+from jaime38130.script_python import *
