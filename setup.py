@@ -8,7 +8,7 @@ long_description = (this_directory / "README.md").read_text()
 setup(
     name='jaime38130',
     packages=['jaime38130'],
-    version='0.8',
+    version='0.9',
     license='MIT',
     description='I needed colors',
     long_description=long_description,
@@ -16,7 +16,7 @@ setup(
     author='Jaime Silva',
     author_email='jaimedcsilva@hotmail.com',
     url='https://github.com/JaimeSilva/jaime38130.git',
-    download_url='https://github.com/JaimeSilva/jaime38130/archive/refs/tags/v_08.tar.gz',
+    download_url='https://github.com/JaimeSilva/jaime38130/archive/refs/tags/v_09.tar.gz',
     keywords=['SOME', 'MEANINGFULL', 'COLORS'],
     install_requires=[
         'colorama',
