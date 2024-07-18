@@ -51,7 +51,7 @@ green("I needed color", "**")
 <div style="border:1px solid black; margin-bottom:40px; padding:30px 5px 30px 5px;">
 <span style="color:green"> I needed color</span> <br>
 </div>
-
+ 
 ### Available colors:
 green
 white
