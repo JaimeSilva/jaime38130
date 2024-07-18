@@ -31,7 +31,7 @@ green("I needed color", "header")
 `
 
 <div style="border:1px solid black; margin-bottom:40px; padding:5px 5px 5px 5px;">
-<span style="background-color:green; color:16C60C;"> I needed color</span> <br>
+<span style="background-color:green; color:#16C60C;"> I needed color</span> <br>
 </div>
 
 
