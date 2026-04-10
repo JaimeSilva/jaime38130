@@ -24,6 +24,7 @@ def printer_color(*args, fore, back):
             print(Style.RESET_ALL)
 
 
+
 def green(*args): printer_color(*args, fore=Fore.GREEN, back=Back.GREEN)
 def white(*args): printer_color(*args, fore=Fore.WHITE, back=Back.WHITE)
 def black(*args): printer_color(*args, fore=Fore.BLACK, back=Back.BLACK)
@@ -34,4 +35,4 @@ def blue(*args): printer_color(*args, fore=Fore.BLUE, back=Back.BLUE)
 def yellow(*args): printer_color(*args, fore=Fore.YELLOW, back=Back.YELLOW)
 
 
-def jaimedcsilva(): print("Hello Jaime!")
+def hidden_secret(): print("Choose Love ❤️")
